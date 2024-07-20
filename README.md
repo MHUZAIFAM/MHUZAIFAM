@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Huzaifa</h1>
-A committed Electrical Engineer from NUST, Pakistan, I blend my technical expertise with a strong focus on AI and machine learning. I leverage my analytical skills and problem-solving abilities to drive innovation and tackle complex challenges. Staying current with the latest research, I excel in collaborative, research-oriented environments and am dedicated to achieving impactful results. I am eager to explore new opportunities and contribute to advancements in the dynamic AI and ML landscape.!<br><br>
+A committed Electrical Engineer from NUST, Pakistan, I blend my technical expertise with a strong focus on AI and machine learning. I leverage my analytical skills and problem-solving abilities to drive innovation and tackle complex challenges. Staying current with the latest research, I excel in collaborative, research-oriented environments and am dedicated to achieving impactful results. I am eager to explore new opportunities and contribute to advancements in the dynamic AI and ML landscape!<br><br>
 
   - 🔭 I’m currently working on [Digital Twins](https://github.com/MHUZAIFAM/DIGITAL-TWINS)
   - 🌱 I’m currently learning **Machine Learning, AI**
