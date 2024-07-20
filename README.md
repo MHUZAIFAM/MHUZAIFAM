@@ -3,7 +3,7 @@ A committed Electrical Engineer from NUST, Pakistan, I blend my technical expert
 
   - 🔭 I’m currently working on [Digital Twins](https://github.com/WAJIHAALI1070/DIGITAL-TWINS-)
   - 🌱 I’m currently learning **Machine Learning, AI**
-  - 👨‍💻 All of my projects are available at [https://github.com/WAJIHAALI1070](https://github.com/WAJIHAALI1070)
+  - 👨‍💻 All of my projects are available at [https://github.com/MHUZAIFAM](https://github.com/MHUZAIFAM)
   - 📝 I regularly write articles on [https://medium.com/@neurocybex](https://medium.com/@neurocybex)
   - 📫 How to reach me **mhzuaifa.bee21seecs@seecs.edu.pk**
 
