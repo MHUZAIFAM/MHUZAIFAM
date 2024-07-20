@@ -11,7 +11,9 @@ A committed Electrical Engineer from NUST, Pakistan, I blend my technical expert
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/@neurocybex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@neurocybex" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad huzaifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad huzaifa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-huzaifa-4b9260272/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Huzaifa" height="30" width="40" />
+</a>
 <a href="https://medium.com/@neurocybex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@neurocybex" height="30" width="40" /></a>
 </p>
 
