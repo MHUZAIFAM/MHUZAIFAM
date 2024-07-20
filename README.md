@@ -26,4 +26,5 @@ A committed Electrical Engineer from NUST, Pakistan, I blend my technical expert
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhuzaifam&show_icons=true&locale=en&layout=compact&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff" alt="mhuzaifam" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhuzaifam&background=000000&border=ffffff&stroke=ff0000&ring=00ff00&fire=0000ff&currStreakNum=ff0000&currStreakLabel=00ff00&sideNums=0000ff&sideLabels=ffffff&dates=ff00ff" alt="mhuzaifam" /></p>
 
