@@ -2,7 +2,7 @@
 A committed Electrical Engineer from NUST, Pakistan, I blend my technical expertise with a strong focus on AI and machine learning. I leverage my analytical skills and problem-solving abilities to drive innovation and tackle complex challenges. Staying current with the latest research, I excel in collaborative, research-oriented environments and am dedicated to achieving impactful results. I am eager to explore new opportunities and contribute to advancements in the dynamic AI and ML landscape!<br><br>
 <p align="left"> <a href="https://twitter.com/@huziafa10hz" target="blank"><img src="https://img.shields.io/twitter/follow/@huziafa10hz?logo=twitter&style=for-the-badge" alt="@huziafa10hz" /></a> </p>
 
-  - 🔭 I’m currently working on [Digital Twins](https://github.com/MHUZAIFAM/DIGITAL-TWINS)
+  - 🔭 I’m currently working on [Digital Twins](https://github.com/MHUZAIFAM/DIGITAL-TWINS) and [Frailty Assessment using Computer Vision]
   - 🌱 I’m currently learning **Machine Learning, AI**
   - 👨‍💻 All of my projects are available at [https://github.com/MHUZAIFAM](https://github.com/MHUZAIFAM)
   - 📝 I regularly write articles on [https://medium.com/@neurocybex](https://medium.com/@neurocybex)
