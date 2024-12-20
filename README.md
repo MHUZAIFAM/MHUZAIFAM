@@ -37,6 +37,6 @@ A committed Electrical Engineer from NUST, Pakistan, I blend my technical expert
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhuzaifam&background=000000&border=ffffff&stroke=ff0000&ring=00ff00&fire=0000ff&currStreakNum=ff0000&currStreakLabel=00ff00&sideNums=0000ff&sideLabels=ffffff&dates=ff00ff" alt="mhuzaifam" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhuzaifam&background=000000&border=ffffff&stroke=ff0000&ring=00ff00&fire=0000ff&currStreakNum=ff0000&currStreakLabel=00ff00&sideNums=0000ff&sideLabels=ffffff&dates=ff00ff" alt="mhuzaifam streak stats" />
 </p>
 
