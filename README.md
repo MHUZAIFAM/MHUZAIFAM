@@ -11,12 +11,16 @@ A committed Electrical Engineer from NUST, Pakistan, I blend my technical expert
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/Neurocybex" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Neurocybex" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" />
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-huzaifa-4b9260272/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Huzaifa" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" />
 </a>
-<a href="https://medium.com/@neurocybex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@neurocybex" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@neurocybex" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="35" />
+</a>
 </p>
 
 ### Expertise: 
