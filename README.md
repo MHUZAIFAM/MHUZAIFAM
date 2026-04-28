@@ -1,58 +1,121 @@
-<h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
-<h3 align="center">AI Engineer | Machine Learning | Intelligent Systems</h3>
-
-## 🚀 About Me
-
-- 💼 AI Engineer at **Isentia**
-- 🤖 Building AI systems and machine learning pipelines
-- 🧠 Interested in Machine Learning, Computer Vision, and LLMs
-- 🌐 Portfolio: https://mhuzaifam.github.io
-- 📫 Email: engrmhuzaifa21@gmail.com
-
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/Neurocybex" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-huzaifa-4b9260272/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@neurocybex" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="35"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://mhuzaifam.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="35"/></a>
-</p>
-
-## 🧠 Tech Stack
-
-| Languages | AI / ML | Data Science | DevOps / Systems | Engineering | Creative |
-|-----------|--------|--------------|------------------|-------------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40"/> |
-
-
-
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Muhammad%20Huzaifa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Intelligent%20Systems&descSize=18&descAlignY=55"/>
 
 <p align="center">
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhuzaifam&show_icons=true&locale=en&layout=compact&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff"/>
-
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=mhuzaifam&show_icons=true&locale=en&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff"/>
+  <a href="https://komarev.com/ghpvc/?username=mhuzaifam">
+    <img src="https://komarev.com/ghpvc/?username=mhuzaifam&label=Profile%20Views&color=00FFFF&style=flat-square" />
+  </a>
 </p>
+
+# 👋 Hi, I'm Muhammad Huzaifa
 
 <p align="center">
-<img width="840" src="https://github-readme-activity-graph.vercel.app/graph?username=mhuzaifam&bg_color=000000&color=00ff00&line=ff0000&point=ffffff&area=true&hide_border=true"/>
+AI Engineer • Machine Learning • Computer Vision • Intelligent Systems
 </p>
-
 
 ---
 
-⭐️ From [mhuzaifam](https://github.com/mhuzaifam)
+# 🚀 About Me
 
-> “The best way to predict the future is to build it with AI.”
-
+- 💼 **AI Engineer at Isentia**
+- 🤖 Building **AI systems, LLM pipelines, and machine learning solutions**
+- 🧠 Research focus: **Computer Vision, Machine Learning, Intelligent Healthcare**
+- 📄 Published researcher in **AI Journal (MDPI)**
+- 🌐 Portfolio: https://mhuzaifam.github.io  
+- 📫 Email: engrmhuzaifa21@gmail.com  
 
 ---
 
-### 🤝 Open to Collaboration
+# 🧠 Technologies I Work With
 
-I’m always interested in collaborating on **AI, Machine Learning, and Intelligent Systems projects**.
+<div align="center">
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-4b9260272/)
-- 🌐 [Portfolio](https://mhuzaifam.github.io)
-- 📧 [Email](mailto:engrmhuzaifa21@gmail.com)
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=java" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=linux" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=docker" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="60"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="60"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhuzaifam&show_icons=true&theme=tokyonight&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhuzaifam&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=mhuzaifam&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-huzaifa-4b9260272/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/Neurocybex">
+<img src="https://img.shields.io/badge/Twitter-%2300FFFF.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=osEvQdAAAAAJ">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
+<a href="https://mhuzaifam.github.io">
+<img src="https://img.shields.io/badge/Portfolio-46BC99?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="mailto:engrmhuzaifa21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+# 🤝 Open to Collaboration
+
+I’m always interested in collaborating on projects related to:
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Intelligent Systems
+- AI for Healthcare
+
+---
+
+⭐ From [mhuzaifam](https://github.com/mhuzaifam)
+
+> *“The best way to predict the future is to build it with AI.”*
