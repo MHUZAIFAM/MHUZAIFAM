@@ -32,13 +32,13 @@ A committed Electrical Engineer from NUST, Pakistan, I blend my technical expert
 ### Achievements:
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhuzaifam&show_icons=true&locale=en&layout=compact&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhuzaifam&show_icons=true&locale=en&layout=compact&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mhuzaifam&show_icons=true&locale=en&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff" />
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=mhuzaifam&show_icons=true&locale=en&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff" />
 </p>
 
 <p align="left">
-<img src="https://streak-stats.demolab.com?user=mhuzaifam&background=000000&border=ffffff&stroke=ff0000&ring=00ff00&fire=0000ff&currStreakNum=ff0000&currStreakLabel=00ff00&sideNums=0000ff&sideLabels=ffffff&dates=ff00ff" />
+<img width="420" src="https://streak-stats.demolab.com?user=mhuzaifam&background=000000&border=ffffff&stroke=ff0000&ring=00ff00&fire=0000ff&currStreakNum=ff0000&currStreakLabel=00ff00&sideNums=0000ff&sideLabels=ffffff&dates=ff00ff" />
 </p>
